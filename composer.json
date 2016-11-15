@@ -1,0 +1,18 @@
+{
+	"name": "digitalpixelco/userforms-autoresponder",
+	"description": "Enable autoresponder in UserForms module",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe", "userforms", "autoresponder"],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Digital Pixel CO",
+			"email": "dev@digitalpixel.co"
+		}
+	],
+	"require": {
+		"silverstripe/framework": "~3.1",
+		"silverstripe/cms": "~3.1",
+		"silverstripe/userforms": "*"
+	}
+}

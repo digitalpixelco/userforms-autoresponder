@@ -1,0 +1,12 @@
+---
+Name: userformsautoresponder
+Only:
+  ModuleExists: userforms
+---
+UserDefinedForm:
+  extensions:
+    - DPC_UserDefinedForm_Extension
+SubmittedForm:
+  extensions:
+    - DPC_SubmittedForm_Extension
+    
